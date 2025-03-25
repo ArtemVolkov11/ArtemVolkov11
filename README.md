@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtemVolkov11
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning computer network
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email "art090505@gmail.com" 
 - 😄 Pronouns: ...
